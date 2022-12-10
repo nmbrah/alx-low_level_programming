@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry Point 
+ * main - Entry Point
  *
  * Return: Always return 0 (sucess)
  *
@@ -14,7 +14,7 @@ int main(void)
 	for (letter = 'a'; letter <= 'z'; letter++)
 		putchar(letter);
 
-	for (letter= 'A'; letter <= 'Z'; letter++)
+	for (letter = 'A'; letter <= 'Z'; letter++)
 		putchar(letter);
 
 	putchar('\n');
