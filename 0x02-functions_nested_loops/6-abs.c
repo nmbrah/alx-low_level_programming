@@ -1,6 +1,7 @@
 #include "main.h"
 
-/** _abs - a function that computes the absolute value of an integar
+/**
+ * _abs - a function that computes the absolute value of an integar
  * @abs: intergar input
  * Return: absolute value of ab
  */
