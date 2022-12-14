@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _abs - a function that computes the absolute value of an integar
- * @abs: intergar input
- * Return: absolute value of ab
+ *  _abs - a function tha computes the aboslute value of an integer
+ *  @ab: integer inpute
+ *  Return: absolute value of ab
  */
 
 int _abs(int ab)
