@@ -1,11 +1,13 @@
 #include <stdio.h>
 
 /**
- * main - Prints numbers from 1 to 100; fizz printed for multiple of 3 and buzz for 5; Both fizz buzz for multiples of 3 and 5
+ * main - Prints numbers from 1 to 100
+ * fizz printed for multiple of 3 and buzz for 5
+ * Both fizz buzz for multiples of 3 and 5
  *Return: Always 0
  */
 
-int main (void)
+int main(void)
 {
 	int num;
 
